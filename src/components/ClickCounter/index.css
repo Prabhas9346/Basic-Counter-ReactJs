@@ -1,0 +1,22 @@
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #f1f5f8;
+  color: #2d3a35;
+  padding: 10px;
+}
+span {
+  color: #c20a72;
+}
+button {
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #007bff;
+  outline: none;
+  border: none;
+  padding: 5px;
+  border-radius: 2px;
+}
